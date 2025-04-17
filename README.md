@@ -3,6 +3,6 @@
 Light_RAG is a lightweight Retrieval-Augmented Generation (RAG) framework using **LangGraph** and **BM25Retriever** for document retrieval.
 
 
-#Usage
+# Usage
 ------
 Run app.py
